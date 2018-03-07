@@ -1,3 +1,5 @@
+<base target="_blank">
+
 - [Why FastComet](//bit.ly/whyfastcomet)
 
 - [Shared Hosting](//bit.ly/sharedhosting2018)
