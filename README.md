@@ -8,6 +8,7 @@
     width: 100vw;
     background: 00BFFF;
     text-align: center;
+    overflow: hidden;
 }
 </style>
 
