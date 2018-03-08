@@ -68,7 +68,7 @@ For those developers, this is important. You can upload your own app, nodejs, ph
 
 
 <script>
-    var x = document.createElement("footer");
+    var x = document.createElement("div");
     x.className = "footer";
     x.innerHTML = '<a href="http://bit.ly/sharedhosting2018">Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support</a>';
     document.body.appendChild(x);
