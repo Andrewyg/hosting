@@ -18,57 +18,33 @@ Okay, then let’s start our trip to discover why FastComet is the best.
 
 It’s only 3 USD a month which is pretty affordable while has lots of feature including **15GB SSD** storage and unlimited traffic, start it [here](http://bit.ly/orderhosting2018).
 
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
----
-
 ## 2. 45 Days Money Back
 
 If you feel bad during the first 45 days, you can get your money back, with no questions!
-
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
----
 
 ## 3. Free domain forever
 
 You'll get a free domain, and it'll be free as long as you have hosting with them.
 
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
----
-
 ## 4. Quick response time, high quality support.
 
 Support is most important part in hosting, whether you’re professor or beginner, FastComet got a short response time while high quality support which mean whenever you get into issue you can get help in short time. Also they’ve also said ***“Customers are always right.”*** You can ask any question, server configuration, platform choosing etc. You can ask multiple not-related question in one ticket (although not good habit), it's just an amazing environment to whether do development or just write blog.
-
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
----
 
 ## 5. Fast response time/Uses SSD disk
 
 Response time is also very important when making website, your site won't even got a chance when your site doesn’t load under 2 seconds for new visitor. Also they use **SSD disk** for all the servers, which meant you'll get an extreme fast exprtience on serving websites!
 
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
----
-
 ## 6. Easy to use interface
 
 FastComet got a mobile friendly control center which meant you can have live chat, send support ticket, and manage your website wherever you go, on computer, on laptop, and even on phone!
-
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
----
 
 ## 7. Daily backup
 
 Backup, a zip file that can save your time, save your life. I’ve experience many time that I crashed my site by modifying codes while you don’t know what it meant, and daily backups save me, you can simply chose a date and restore data without extra costs!
 
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
----
-
 ## 8. Powered by cPanel
 
 cPanel is world most popular hosting control platfor, it let you can easily control your files, SSL certificates, DNS records, backup/restore websites etc. You'll know how powerful it is and stuck with it once you touch it!
-
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
----
 
 ## 9. Softaculous (one-click installation) supported
 
@@ -77,7 +53,3 @@ For those beginners, you’ll know how important one-click installation is, you�
 ## 10. Ability to deploy own apps
 
 For those developers, this is important. You can upload your own app, nodejs, php, etc. And start them by SSH (nodejs).
-
-[Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
-
----
