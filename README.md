@@ -3,11 +3,11 @@
 <style>
 .footer {
     position: fixed;
-    left: 0;
+    right: 0;
     bottom: 0;
-    width: 100%;
+    width: 100vw;
     text-align: center;
-    z-index:9;
+    z-index:999;
 }
 </style>
 
