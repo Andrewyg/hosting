@@ -6,7 +6,7 @@
     right: 0;
     bottom: 0;
     width: 100vw;
-    background: 00BFFF;
+    background-color: #00BFFF;
     text-align: center;
     overflow: hidden;
 }
