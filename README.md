@@ -6,8 +6,8 @@
     right: 0;
     bottom: 0;
     width: 100vw;
+    background: 00BFFF;
     text-align: center;
-    z-index:999;
 }
 </style>
 
@@ -66,6 +66,10 @@ For those beginners, youâ€™ll know how important one-click installation is, youâ
 For those developers, this is important. You can upload your own app, nodejs, php, etc. And start them by SSH (nodejs).
 
 
-<footer class="footer">
-  <a href="http://bit.ly/sharedhosting2018">Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support</a>
-</footer>
+<script>
+    var x = document.createElement("footer");
+    document.body.appendChild(x);
+    var footer = document.getElementsByTagName("footer")[1];
+    footer.className = "footer";
+    footer.innerHTML = '<a href="http://bit.ly/sharedhosting2018">Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support</a>';
+</script>
