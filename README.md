@@ -7,7 +7,8 @@
     bottom: 0;
     width: 100vw;
     background-color: #00BFFF;
-    font-size:150%;
+    font-size:180%;
+    color:white;
     text-align: center;
     overflow: hidden;
 }
