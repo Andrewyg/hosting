@@ -1,5 +1,17 @@
 <base target="_blank">
 
+<style>
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+</style>
+
 # [FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
 
 I'll give my vote to [FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](https://bit.ly/sharedhosting2018).
@@ -53,3 +65,8 @@ For those beginners, youâ€™ll know how important one-click installation is, youâ
 ## 10. Ability to deploy own apps
 
 For those developers, this is important. You can upload your own app, nodejs, php, etc. And start them by SSH (nodejs).
+
+
+<footer>
+  <a href="http://bit.ly/sharedhosting2018">Goto FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support</a>
+</footer>
