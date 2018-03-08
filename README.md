@@ -11,6 +11,7 @@
     color:white;
     text-align: center;
     overflow: hidden;
+    z-index:99;
 }
 </style>
 
