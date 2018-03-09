@@ -13,6 +13,9 @@
     overflow: hidden;
     z-index:99;
 }
+.footer a {
+    color:white;
+    }
 </style>
 
 # [FastComet - SSD Cloud Hosting with Cloudflare & 24/7 Premium Support](http://bit.ly/sharedhosting2018)
@@ -49,23 +52,34 @@ Support is most important part in hosting, whether you’re professor or beginne
 
 Response time is also very important when making website, your site won't even got a chance when your site doesn’t load under 2 seconds for new visitor. Also they use **SSD disk** for all the servers, which meant you'll get an extreme fast exprtience on serving websites!
 
-## 6. Easy to use interface
+## 6. Multiple data center
+FastComet has 8 data centers which is much more then other hosting and here is the exact list:
+* Chicago, IL, USA
+* Dallas, TX, USA
+* Newark, NJ, USA
+* London, UK, Europe
+* Frankfurt, DE, Europe
+* Amsterdam, NL, Europe
+* Tokyo, JP, Asia
+* Singapore, SG, Asia-Pacific
+
+## 7. Easy to use interface
 
 FastComet got a mobile friendly control center which meant you can have live chat, send support ticket, and manage your website wherever you go, on computer, on laptop, and even on phone!
 
-## 7. Daily backup
+## 8. Daily backup
 
 Backup, a zip file that can save your time, save your life. I’ve experience many time that I crashed my site by modifying codes while you don’t know what it meant, and daily backups save me, you can simply chose a date and restore data without extra costs!
 
-## 8. Powered by cPanel
+## 9. Powered by cPanel
 
 cPanel is world most popular hosting control platfor, it let you can easily control your files, SSL certificates, DNS records, backup/restore websites etc. You'll know how powerful it is and stuck with it once you touch it!
 
-## 9. Softaculous (one-click installation) supported
+## 10. Softaculous (one-click installation) supported
 
 For those beginners, you’ll know how important one-click installation is, you’ll never know how hard that is (for some applications) to modify configuration files and run command your self. FastComet do all those for you, **no extra cost** with just one click, or even customized app with one support ticket.
 
-## 10. Ability to deploy own apps
+## 11. Ability to deploy own apps
 
 For those developers, this is important. You can upload your own app, nodejs, php, etc. And start them by SSH (nodejs).
 
